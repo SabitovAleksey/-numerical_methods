@@ -1,2 +1,2 @@
-# -numerical_methods
+# numerical methods
 course work on numerical methods
